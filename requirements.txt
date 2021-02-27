@@ -4,4 +4,3 @@ numpy
 datetime
 matplotlib
 scipy
-math

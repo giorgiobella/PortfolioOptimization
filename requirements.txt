@@ -1,0 +1,7 @@
+PyPortfolioOpt>=1.4.1
+pandas
+numpy
+datetime
+matplotlib
+scipy
+math

@@ -7,3 +7,5 @@ scipy
 pandas-datareader
 deepdow
 torch
+cvxpy
+cvxopt
